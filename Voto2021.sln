@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voto2021", "Voto2021\Voto2021.csproj", "{40D531D6-903C-45E5-A953-20AA2479A425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voto2021_DataAccess", "Voto2021_DataAccess\Voto2021_DataAccess.csproj", "{43BF6456-24B8-4A90-9F86-2BF0A93D59C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D531D6-903C-45E5-A953-20AA2479A425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D531D6-903C-45E5-A953-20AA2479A425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D531D6-903C-45E5-A953-20AA2479A425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D531D6-903C-45E5-A953-20AA2479A425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BF6456-24B8-4A90-9F86-2BF0A93D59C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BF6456-24B8-4A90-9F86-2BF0A93D59C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BF6456-24B8-4A90-9F86-2BF0A93D59C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BF6456-24B8-4A90-9F86-2BF0A93D59C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FFFE494-907C-4515-AA2F-039617143D7D}
+	EndGlobalSection
+EndGlobal
